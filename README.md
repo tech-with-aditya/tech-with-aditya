@@ -1,4 +1,4 @@
-# Hey 👋 I'm Aditya
+# Hi! 👋 I'm Aditya
 
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning JavaScript
