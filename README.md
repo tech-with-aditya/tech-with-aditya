@@ -3,6 +3,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Frontend projects
+- 🤔 I’m looking for help with UI/UX Design
 - 💬 Ask me about programming and development
 
 <!---
